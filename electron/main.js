@@ -1,5 +1,5 @@
 'use strict'
-
+// Own version
 const {app, BrowserWindow } = require('electron')
 const os = require('os')
 
